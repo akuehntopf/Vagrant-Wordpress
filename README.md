@@ -18,7 +18,7 @@ Featuring:
 
 4) Open terminal and execute "vagrant up"
 
-5) Point your browser to localhost:8080/wordpress to complete WP installation
+5) Point your browser to localhost:8080/wordpress to complete WP installation (db name: vagrant, user: vagrant, password: vagrant)
 
 6) ???
 
