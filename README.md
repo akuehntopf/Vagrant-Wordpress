@@ -1,6 +1,12 @@
 # Vagrant-Wordpress
 
 A simple Vagrant Box for Wordpress Development based on Ubuntu Trusty 64bit.
+Featuring:
+
+- Apache 2
+- MySQL 5
+- PHP 5
+- Latest Wordpress from wordpress.org
 
 ## How to use
 
