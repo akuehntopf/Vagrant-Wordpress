@@ -26,11 +26,13 @@ Featuring:
 
 ## What if i am behind a proxy
 
-Open the Vagrantfile, find the proxy section and enter your proxy host and port.
+1) Install Vagrant-Proxy plugin (execute "vagrant plugin install vagrant-proxyconf")
+
+2) Open the Vagrantfile, find the proxy section and uncomment it. Enter your proxy host and port.
 
 ## What are the passwords?
 
-Unless noted otherwise the password is always "vagrant". The box will also have
-a MySQL database user named "vagrant" with this password.
-
+Unless noted otherwise the password will always be "vagrant".
 SSH into the box using the "vagrant" username and "vagrant" as password.
+The box will also have a MySQL database "wordpress" with a user named "vagrant" and this password.
+
