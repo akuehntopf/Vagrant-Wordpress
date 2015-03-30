@@ -1,5 +1,6 @@
 # Vagrant-Wordpress
-A simple Vagrant Box for Wordpress Development
+
+A simple Vagrant Box for Wordpress Development based on Ubuntu Trusty 64bit.
 
 ## How to use
 
@@ -20,3 +21,10 @@ A simple Vagrant Box for Wordpress Development
 ## What if i am behind a proxy
 
 Open the Vagrantfile, find the proxy section and enter your proxy host and port.
+
+## What are the passwords?
+
+Unless noted otherwise the password is always "vagrant". The box will also have
+a MySQL database user named "vagrant" with this password.
+
+SSH into the box using the "vagrant" username and "vagrant" as password.
