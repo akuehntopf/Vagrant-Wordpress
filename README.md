@@ -29,8 +29,6 @@ Unless noted otherwise the password will always be "vagrant".
 SSH into the box using the "vagrant" username and "vagrant" as password.
 The box will also have a MySQL database "wordpress" with a user named "wordpress" and "wordpress" as password.
 
-The WP admin is admin/admin
-
 ## Contact
 
 If you have any questions, remarks, etc. Feel free to contact me at andreas [at] kuehntopf.org
