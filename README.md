@@ -14,7 +14,7 @@ Featuring:
 2. Install Vagrant (https://www.vagrantup.com/)
 3. Clone this repository or download zip file and change to folder
 4. Open terminal and execute "vagrant up"
-5. Point your browser to localhost:8080/wordpress to complete WP installation (db name: vagrant, user: vagrant, password: vagrant)
+5. Point your browser to localhost:8080/wordpress to complete WP installation (db name: wordpress, user: wordpress, password: wordpress)
 6. Check the "www" folder, develop there.
 7. Profit!
 
